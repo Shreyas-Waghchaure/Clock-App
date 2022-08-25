@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/shreyas/world_clock/BuildConfig.java
+ com.shreyas.world_clock.BuildConfig
